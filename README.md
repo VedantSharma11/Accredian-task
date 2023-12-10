@@ -2,10 +2,10 @@
 
 ### NOTE: 
 #### Frontend
-The frontend of the application is built with React and is hosted on Netlify. You can access the frontend at [Your Netlify URL].
+The frontend of the application is built with React and is hosted on Netlify. You can access the frontend at [https://657614a6fc89905ddcc12be3--incredible-yeot-5374fc.netlify.app/].
 
 #### Backend
-The backend of the application is powered by MySQL, handling user authentication. Please note that due to limitations in MySQL hosting, the backend is not currently hosted.
+The backend of the application is powered by MySQL, handling user authentication. Please note that due to limitations in MySQL hosting, the backend is not currently hosted, so you will need to run the application locally
 
 #### Running Locally
 If you wish to run the backend locally, you'll need to set up a MySQL database. 
